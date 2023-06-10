@@ -11,7 +11,7 @@ body {
 
 @font-face {
     font-family:'Lobster-Regular' ;
-    src: url(/font/Lobster-Regular.ttf);
+    src: url(/Lobster-Regular.ttf);
 }
 h1{
     font-family: 'Lobster-Regular', 'sans-serif';
@@ -27,7 +27,7 @@ form {
     text-align: center;
     display: flex;
     flex-direction: column;
-    background-image: url("/photo/formbg.png");
+    background-image: url("/formbg.png");
     background-repeat: repeat;
     background-color: #f5f5f5;
     max-width: 600px;
@@ -68,7 +68,7 @@ form {
     padding-top: 15px;
     height: 250px;
     width: 200px;
-    background-image: url("/photo/notebg.png");
+    background-image: url("/notebg.png");
 }
 
 .note {
